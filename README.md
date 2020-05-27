@@ -9,5 +9,7 @@ This project analyzes disaster data from Figure Eight to build a model for an AP
 
 # Data
 
+The `message.csv` contains original messages received after a disaster, and the `categories.csv` contains the category of the messages. 
+
 # Results
 
